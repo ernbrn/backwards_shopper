@@ -6,5 +6,5 @@ class List < ActiveRecord::Base
   has_many :notes, :as => :notable
 
   validates :name, presence: true
-  validates :name, uniqueness: {case_sensitive: false}
+  validates :name, uniqueness: true
 end
