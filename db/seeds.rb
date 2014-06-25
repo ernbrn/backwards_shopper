@@ -8,4 +8,4 @@
 
 erin = Shopper.create(name: "Erin")
 mylist = List.create(name: "Kroger Produce Trip", shopper: erin)
-krogers = Store.create(name: "Krogers")
+krogers = Store.create(name: "Krogers", list: mylist)
