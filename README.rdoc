@@ -6,3 +6,4 @@ This app will allow you to store your regular lists from your favorite stores an
 Then, next time you're ready to hit your store, you'll have an effortless, up to date list of what you *actually* need.
 
 This app is still in early production -- stay tuned!
+
